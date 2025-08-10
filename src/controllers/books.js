@@ -40,5 +40,3 @@ module.exports = {
   updateBook,
   deleteBook,
 };
-  deleteBook,
-
