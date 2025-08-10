@@ -38,3 +38,4 @@ module.exports = {
   getAllBooks,
   getBookById,
   updateBook,
+  deleteBook,
