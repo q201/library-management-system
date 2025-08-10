@@ -36,3 +36,7 @@ const deleteCatalog = async (req, res) => {
 module.exports = {
   createCatalog,
   getAllCatalogs,
+  getCatalogById,
+  updateCatalog,
+  deleteCatalog,
+};
