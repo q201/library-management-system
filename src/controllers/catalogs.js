@@ -40,3 +40,8 @@ module.exports = {
   updateCatalog,
   deleteCatalog,
 };
+  getCatalogById,
+  updateCatalog,
+  deleteCatalog,
+};
+
