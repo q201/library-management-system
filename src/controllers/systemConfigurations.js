@@ -23,3 +23,6 @@ const updateSystemConfiguration = async (req, res) => {
 
 module.exports = {
   createSystemConfiguration,
+  getAllSystemConfigurations,
+  updateSystemConfiguration,
+};
